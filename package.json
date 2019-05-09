@@ -143,6 +143,7 @@
     "coveo.analytics": "^0.7.0",
     "d3": "^4.2.1",
     "express": "^4.13.4",
+    "pg": "^7.3.0",
     "d3-scale": "^1.0.3",
     "es6-promise": "^4.0.5",
     "exponential-backoff": "^1.0.5",
@@ -164,7 +165,7 @@
     "macaddress": "0.2.9",
     "url-parse": "1.4.3",
     "lodash": "4.17.11",
-    "hoek": "2.x.x"
+    "hoek": "4.2.1"
   },
   "snyk": true
 }
